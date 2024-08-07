@@ -1,2 +1,2 @@
-# MCDAY
-MCDAY.PL
+# mcday
+Mcday
